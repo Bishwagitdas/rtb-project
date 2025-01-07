@@ -1,0 +1,20 @@
+{
+    "id": "1",
+    "imp": [
+        {
+            "id": "1",
+            "banner": {
+                "w": 300,
+                "h": 250
+            },
+            "bidfloor": 0.5
+        }
+    ],
+    "device": {
+        "geo": {
+            "country": "US"
+        },
+        "os": "iOS"
+    },
+    "cur": ["USD"]
+}

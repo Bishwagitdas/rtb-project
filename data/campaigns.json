@@ -1,0 +1,22 @@
+[
+    {
+        "campaignname": "Campaign 1",
+        "price": 1.0,
+        "creative_id": "12345",
+        "url": "http://example.com/ad1",
+        "image_url": "http://example.com/ad1.jpg",
+        "advertiser": "Advertiser 1",
+        "hs_os": "iOS,Android",
+        "country": "US"
+    },
+    {
+        "campaignname": "Campaign 2",
+        "price": 0.8,
+        "creative_id": "67890",
+        "url": "http://example.com/ad2",
+        "image_url": "http://example.com/ad2.jpg",
+        "advertiser": "Advertiser 2",
+        "hs_os": "Android",
+        "country": "US"
+    }
+]
